@@ -1,4 +1,4 @@
-## Hi, I'm Sabirin! 👋
+## Hello there, I'm Sabirin! 👋
 I'm a student at Georgia State University majoring in Computer Science. I'm passionate about leveraging technology to solve complex challenges and drive innovation.
 
 🔭 Skills
