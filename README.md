@@ -1,5 +1,5 @@
 ## Hello there, I'm Sabirin! 👋
-I'm a student at Georgia State University majoring in Computer Science. I'm passionate about leveraging technology to solve complex challenges and drive innovation.
+I'm a Computer Science student at Georgia State University. I'm interested in pursuing careers in data analytics, software development, and cloud computing. I'm passionate about leveraging technology to solve complex challenges and drive innovation.
 
 🔭 Skills
 - Programming Languages: Python, C
@@ -13,11 +13,6 @@ I'm a student at Georgia State University majoring in Computer Science. I'm pass
 - Tableau
 - PowerBI
 - Java
-
-⚡ Interested In
-- Data Analytics
-- Software Development
-- Cloud Computing
 
 📫 How to Reach me
 - [LinkedIn](https://www.linkedin.com/in/sabirin-mohamed/)
