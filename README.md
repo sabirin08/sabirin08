@@ -19,5 +19,5 @@ I'm a student at Georgia State University majoring in Computer Science. I'm pass
 - Software Development
 - Cloud Computing
 
-📫 Reach me @
+📫 How to Reach me
 - [LinkedIn](https://www.linkedin.com/in/sabirin-mohamed/)
