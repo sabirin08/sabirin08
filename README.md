@@ -7,8 +7,7 @@ I'm a Computer Science student @ Georgia State University with a strong interest
 - Tools: Excel, VS Code
 - Technologies: Bash Scripting, Secure Shell (SSH)
 
-🌱 Currently Learning 
-- Google Data Analytics Professional Certificate
+🌱 Currently Learning
 - SQL
 - Tableau
 - PowerBI
