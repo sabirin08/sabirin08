@@ -1,15 +1,23 @@
-## Hi, I'm Sabirin 👋
+## Hi, I'm Sabirin! 👋
+I'm a student at Georgia State University majoring in Computer Science. I'm passionate about leveraging technology to solve complex challenges and drive innovation.
 
-🔭 Skills: 
+🔭 Skills
+- Programming Languages: Python, C
+- Operating Systems: Linux, Unix, Windows
+- Tools: Excel, VS Code
+- Technologies: Bash Scripting, Secure Shell (SSH)
 
-🌱 Currently learning
+🌱 Currently learning 
 - Google Data Analytics Professional Certificate
 - SQL
 - Tableau
 - PowerBI
+- Java
 
-👯 I’m looking to collaborate on ...
-🤔 I’m looking for help with ...
-💬 Ask me about ...
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sabirin-mohamed/)
-- ⚡ Fun fact: ...
+⚡ Interested in
+- Data Analytics
+- Software Development
+- Cloud computing
+
+📫 How to reach me: 
+- [LinkedIn](https://www.linkedin.com/in/sabirin-mohamed/)
