@@ -17,7 +17,7 @@ I'm a student at Georgia State University majoring in Computer Science. I'm pass
 ⚡ Interested in
 - Data Analytics
 - Software Development
-- Cloud computing
+- Cloud Computing
 
-📫 How to reach me: 
+📫 Reach me @
 - [LinkedIn](https://www.linkedin.com/in/sabirin-mohamed/)
