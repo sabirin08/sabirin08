@@ -3,7 +3,7 @@ I'm a Computer Science student @ Georgia State University with a strong interest
 
 🔭 Skills
 - Programming Languages: Python, C
-- Operating Systems: Linux, Unix, Windows
+- Operating Systems: Linux, Unix
 - Tools: Excel, VS Code, PyCharm
 - Technologies: Bash Scripting, Secure Shell (SSH)
 
