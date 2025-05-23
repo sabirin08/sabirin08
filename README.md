@@ -4,7 +4,7 @@ I'm a Computer Science student @ Georgia State University with a strong interest
 🔭 Skills
 - Programming Languages: Python, C
 - Operating Systems: Linux, Unix, Windows
-- Tools: Excel, VS Code
+- Tools: Excel, VS Code, PyCharm
 - Technologies: Bash Scripting, Secure Shell (SSH)
 
 🌱 Currently Learning
@@ -12,6 +12,7 @@ I'm a Computer Science student @ Georgia State University with a strong interest
 - Tableau
 - PowerBI
 - Java
+- AWS
 
 📫 How to Reach me
 - [LinkedIn](https://www.linkedin.com/in/sabirin-mohamed/)
