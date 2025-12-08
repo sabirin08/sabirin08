@@ -7,9 +7,6 @@ I'm a Computer Science student @ Georgia State University with a strong interest
 - Tools: Excel, Tableau, VS Code, PyCharm
 - Technologies: Bash Scripting, Secure Shell (SSH)
 
-🌱 Currently Learning
-- PowerBI
-- AWS
 
 📫 How to Reach me
 - [LinkedIn](https://www.linkedin.com/in/sabirin-mohamed/)
