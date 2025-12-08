@@ -5,7 +5,7 @@ I'm a Computer Science student @ Georgia State University with a strong interest
 - Programming Languages: Python, SQL, C, Java
 - Operating Systems: Unix
 - Tools: Excel, Tableau, VS Code, PyCharm
-- Technologies: Bash Scripting, Secure Shell (SSH)
+- Technologies: Bash Scripting
 
 
 📫 How to Reach me
