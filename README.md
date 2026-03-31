@@ -4,7 +4,7 @@ I'm a Computer Science student @ Georgia State University with a strong interest
 🔭 Skills
 - Programming Languages: Python, SQL, C, Java
 - Operating Systems: Unix
-- Tools: Excel, Tableau
+- Tools: Excel, Tableau, Figma
 - Technologies: Bash Scripting
 
 
